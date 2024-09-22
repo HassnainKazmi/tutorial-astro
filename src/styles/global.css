@@ -76,7 +76,11 @@ h1 {
         padding: 15px 20px;
     }
 
-    .line{
+    .hamburger{
+        display: none;
+    }
+
+    .hamburger .line{
         display: none;
     }
 }
